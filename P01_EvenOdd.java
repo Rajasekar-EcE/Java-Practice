@@ -1,5 +1,3 @@
-//package Java-Practice;
-
 import java.util.Scanner;
 
 public class P01_EvenOdd {
