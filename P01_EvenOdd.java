@@ -22,7 +22,6 @@ public class P01_EvenOdd {
         //     even=true;  //using single line body, no need of {} brackets
         // else
         //     even=false;
-
         // if(even)
         //     System.out.println("The given number is EVEN");
         // else
