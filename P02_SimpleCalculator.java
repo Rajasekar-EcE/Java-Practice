@@ -4,7 +4,7 @@ public class P02_SimpleCalculator {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
 
-        // === Using Switch Concept ===
+        // === 1.Using Switch Concept ===
         // System.out.println("=== Select our operation ===");
         // System.out.println("  1.Addition(+)\n  2.Subtraction(-) \n  3.Multiplication(*) \n  4.Division(/)");
         // System.out.print("\nYour selected operation is: ");
@@ -32,7 +32,7 @@ public class P02_SimpleCalculator {
         // }
 
         
-        // === Using String Operation ===
+        // === 2.Using String Operation ===
         // System.out.println("=== Select our operation ===");
         // System.out.println("  1.Addition(add)\n  2.Subtraction(sub) \n  3.Multiplication(mul) \n  4.Division(div)");
         // System.out.print("\nYoure selected operation is: ");
@@ -41,7 +41,6 @@ public class P02_SimpleCalculator {
         // double num1=scan.nextDouble();
         // System.out.print("Enter your 2nd Number: ");
         // double num2=scan.nextDouble();
-
         // if(operation.equalsIgnoreCase("add")){
         //     System.out.println("\nResult is: "+(num1+num2));
         // }else if(operation.equalsIgnoreCase("sub")){
