@@ -5,13 +5,13 @@ public class P05_MultiplicationTable{
         // System.out.print("Enter a number to print its multiplication table: ");
         // int table=scan.nextInt();
         
-        // Multiplication Table with range of 10
+        // === 1.Multiplication Table with range of 10 ===
         // System.out.println("\nMultiplication table of "+table+": ");
         // for(int i=1;i<=10;i++){
         //     System.out.println(i+" * "+table+" = "+(i*table));
         // }
 
-        // Multiplication Table With Custom Range
+        // === 2.Multiplication Table With Custom Range ===
         // System.out.print("Enter your range: ");
         // int range=scan.nextInt();
         // System.out.println("\nMultiplication table of "+table+": ");
