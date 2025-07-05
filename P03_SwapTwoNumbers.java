@@ -3,7 +3,7 @@ public class P03_SwapTwoNumbers {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
 
-        //Swap 2 numbers using a third variable
+        // === 1.Swap 2 numbers using a third variable ===
         // System.out.println("=== User Input ===");
         // System.out.print("Enter the A variable: ");
         // int A=scan.nextInt();
@@ -17,7 +17,7 @@ public class P03_SwapTwoNumbers {
         // System.out.println("A variable: "+A);
         // System.out.println("B variable: "+B);
 
-        // Swap 2 numbers using a without third variable
+        // === 2.Swap 2 numbers using a without third variable ===
         // System.out.println("\n=== After Swapped (Without third Variable)===");
         // A=A+B;
         // B=A-B;
