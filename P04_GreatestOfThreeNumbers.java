@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class P04_GreatestOfThreeNumbers{
     public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
+        
         System.out.print("Enter the value 1: ");
         double value1=scan.nextDouble();
         System.out.print("Enter the value 2: ");
