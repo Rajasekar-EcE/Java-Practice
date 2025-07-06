@@ -27,7 +27,7 @@ public class P02_SimpleCalculator {
         //         System.out.println((num2==0)?"\nCannot divided by 0":"\nResult is:"+(num1/num2));
         //         break;
         //     default:
-        //         System.out.println("\nPlease Select Correct Operation");
+        //         System.out.println("\nPlease Select Correct Operation(+,-,*,/).");
         //         break;
         // }
 
@@ -50,7 +50,7 @@ public class P02_SimpleCalculator {
         // }else if(operation.equalsIgnoreCase("div")){
         //     System.out.println((num2==0)?"\nCan't divided by 0":"\nResult is:"+(num1/num2));
         // }else{
-        //     System.out.println("Please select correct operation (add,sub,mul,div)");
+        //     System.out.println("Please select correct operation (add,sub,mul,div).");
         // }
         scan.close();
     }
